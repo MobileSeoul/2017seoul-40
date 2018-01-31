@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="genre">
+        <item>@string/all</item>
+        <item>@string/genre_1</item>
+        <item>@string/genre_2</item>
+        <item>@string/genre_3</item>
+        <item>@string/genre_5</item>
+        <item>@string/genre_6</item>
+        <item>@string/genre_7</item>
+        <item>@string/genre_10</item>
+        <item>@string/genre_11</item>
+        <item>@string/genre_12</item>
+        <item>@string/genre_17</item>
+        <item>@string/genre_18</item>
+        <item>@string/genre_19</item>
+    </string-array>
+
+    <string-array name="district">
+        <item>@string/all</item>
+        <item>@string/district_1111000000</item>
+        <item>@string/district_1114000000</item>
+        <item>@string/district_1117000000</item>
+        <item>@string/district_1120000000</item>
+        <item>@string/district_1121500000</item>
+        <item>@string/district_1123000000</item>
+        <item>@string/district_1126000000</item>
+        <item>@string/district_1129000000</item>
+        <item>@string/district_1130500000</item>
+        <item>@string/district_1132000000</item>
+        <item>@string/district_1135000000</item>
+        <item>@string/district_1138000000</item>
+        <item>@string/district_1141000000</item>
+        <item>@string/district_1144000000</item>
+        <item>@string/district_1147000000</item>
+        <item>@string/district_1150000000</item>
+        <item>@string/district_1153000000</item>
+        <item>@string/district_1154500000</item>
+        <item>@string/district_1156000000</item>
+        <item>@string/district_1159000000</item>
+        <item>@string/district_1162000000</item>
+        <item>@string/district_1165000000</item>
+        <item>@string/district_1168000000</item>
+        <item>@string/district_1171000000</item>
+        <item>@string/district_1174000000</item>
+        <item>@string/district_1100000000</item>
+    </string-array>
+
+    <string-array name="period">
+        <item>@string/period_1</item>
+        <item>@string/period_2</item>
+        <item>@string/period_3</item>
+        <item>@string/period_4</item>
+    </string-array>
+
+    <string-array name="list_count">
+        <item>@string/list_count_1</item>
+        <item>@string/list_count_2</item>
+        <item>@string/list_count_3</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">문화 포스터</string>
+    <string name="confirm">확인</string>
+    <string name="cancel">취소</string>
+    <string name="finish_text">\'뒤로\' 버튼을 한번 더 누르시면 종료됩니다.</string>
+    <string name="start">시작하기</string>
+
+    <string name="more">더 보기</string>
+    <string name="search_hint">검색어를 입력하세요.</string>
+    <string name="search_no_data">검색결과가 없습니다.</string>
+
+    <string name="detail">상세 정보</string>
+    <string name="detail_peorid">기간</string>
+    <string name="detail_time">시간</string>
+    <string name="detail_place">장소</string>
+    <string name="detail_target">이용대상</string>
+    <string name="detail_fee">이용요금</string>
+    <string name="detail_sponsor">주최</string>
+    <string name="detail_inquiry">문의</string>
+    <string name="detail_shortcut">바로가기</string>
+    <string name="detail_in_progress">진행중</string>
+    <string name="detail_until_today">오늘까지</string>
+
+    <string name="setting_title">설정</string>
+
+    <string name="genre">장르</string>
+    <string name="genre_1">콘서트</string>
+    <string name="genre_2">클래식</string>
+    <string name="genre_3">뮤지컬/오페라</string>
+    <string name="genre_5">연극</string>
+    <string name="genre_6">무용</string>
+    <string name="genre_7">전시/미술</string>
+    <string name="genre_10">기타</string>
+    <string name="genre_11">국악</string>
+    <string name="genre_12">영화</string>
+    <string name="genre_17">축제</string>
+    <string name="genre_18">독주/독창회</string>
+    <string name="genre_19">문화교양/강좌</string>
+
+    <string name="district">지역</string>
+    <string name="district_1111000000">종로구</string>
+    <string name="district_1114000000">중구</string>
+    <string name="district_1117000000">용산구</string>
+    <string name="district_1120000000">성동구</string>
+    <string name="district_1121500000">광진구</string>
+    <string name="district_1123000000">동대문구</string>
+    <string name="district_1126000000">중랑구</string>
+    <string name="district_1129000000">성북구</string>
+    <string name="district_1130500000">강북구</string>
+    <string name="district_1132000000">도봉구</string>
+    <string name="district_1135000000">노원구</string>
+    <string name="district_1138000000">은평구</string>
+    <string name="district_1141000000">서대문구</string>
+    <string name="district_1144000000">마포구</string>
+    <string name="district_1147000000">양천구</string>
+    <string name="district_1150000000">강서구</string>
+    <string name="district_1153000000">구로구</string>
+    <string name="district_1154500000">금천구</string>
+    <string name="district_1156000000">영등포구</string>
+    <string name="district_1159000000">동작구</string>
+    <string name="district_1162000000">관악구</string>
+    <string name="district_1165000000">서초구</string>
+    <string name="district_1168000000">강남구</string>
+    <string name="district_1171000000">송파구</string>
+    <string name="district_1174000000">강동구</string>
+    <string name="district_1100000000">인근지역</string>
+
+    <string name="period">기간</string>
+    <string name="period_1">3일</string>
+    <string name="period_2">7일</string>
+    <string name="period_3">14일</string>
+    <string name="period_4">30일</string>
+    <string name="list_count">목록개수</string>
+    <string name="list_count_1">10개</string>
+    <string name="list_count_2">20개</string>
+    <string name="list_count_3">30개</string>
+
+    <string name="update">데이터베이스 업데이트</string>
+    <string name="update_msg">데이터베이스를 업데이트하시겠습니까?</string>
+    <string name="update_success">데이터베이스 업데이트 성공</string>
+    <string name="update_fail">데이터베이스 업데이트 실패</string>
+
+
+    <string name="reset">초기화</string>
+    <string name="reset_msg">초기화를 하시겠습니까?</string>
+
+
+    <string name="all">전체</string>
+    <string name="share">공유</string>
+    <string name="bookmark">관심목록</string>
+
+    <string name="bookmark_register">관심목록으로 설정하였습니다.</string>
+    <string name="bookmark_unregister">관심목록에서 해제하였습니다.</string>
+
+    <string name="error_msg_01">네트워크 상태를 확인해 주십시오.\n확인버튼을 누르시면 프로그램이 종료됩니다</string>
+    <string name="error_msg_02">데이터베이스 생성에 실패했습니다.\n확인버튼을 누르시면 프로그램이 종료됩니다</string>
+    <string name="error_msg_03">정보가 없습니다.</string>
+
+</resources>

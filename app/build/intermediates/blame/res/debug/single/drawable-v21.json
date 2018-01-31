@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/Jisu/Documents/workspace/androidstudio/sci_2017/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/Jisu/.android/build-cache/4cc70977f15d919b473b65225720698e2f8bc425/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/Jisu/Documents/workspace/androidstudio/sci_2017/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/Jisu/.android/build-cache/4cc70977f15d919b473b65225720698e2f8bc425/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/Jisu/Documents/workspace/androidstudio/sci_2017/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/Jisu/.android/build-cache/4cc70977f15d919b473b65225720698e2f8bc425/output/res/drawable-v21/abc_btn_colored_material.xml"
+    }
+]

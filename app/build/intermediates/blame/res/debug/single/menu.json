@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Jisu/Documents/workspace/androidstudio/sci_2017/app/build/intermediates/res/merged/debug/menu/menu_detail.xml",
+        "source": "/Users/Jisu/Documents/workspace/androidstudio/sci_2017/app/src/main/res/menu/menu_detail.xml"
+    },
+    {
+        "merged": "/Users/Jisu/Documents/workspace/androidstudio/sci_2017/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/Users/Jisu/Documents/workspace/androidstudio/sci_2017/app/src/main/res/menu/menu_main.xml"
+    }
+]

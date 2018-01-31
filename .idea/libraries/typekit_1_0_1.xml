@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="typekit-1.0.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/e2a7981c065504501d30a92d3300be979cdd4f4d/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/e2a7981c065504501d30a92d3300be979cdd4f4d/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tsengvn/typekit/1.0.1/7ec1a4325fd4abe2d0085d944c8c530c7e0afdaa/typekit-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

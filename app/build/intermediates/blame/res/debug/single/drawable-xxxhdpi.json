@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/Jisu/Documents/workspace/androidstudio/sci_2017/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_search_white.png",
+        "source": "/Users/Jisu/Documents/workspace/androidstudio/sci_2017/app/src/main/res/drawable-xxxhdpi/ic_search_white.png"
+    },
+    {
+        "merged": "/Users/Jisu/Documents/workspace/androidstudio/sci_2017/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_bookmark_white.png",
+        "source": "/Users/Jisu/Documents/workspace/androidstudio/sci_2017/app/src/main/res/drawable-xxxhdpi/ic_bookmark_white.png"
+    },
+    {
+        "merged": "/Users/Jisu/Documents/workspace/androidstudio/sci_2017/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_settings_white.png",
+        "source": "/Users/Jisu/Documents/workspace/androidstudio/sci_2017/app/src/main/res/drawable-xxxhdpi/ic_settings_white.png"
+    },
+    {
+        "merged": "/Users/Jisu/Documents/workspace/androidstudio/sci_2017/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_add_white.png",
+        "source": "/Users/Jisu/Documents/workspace/androidstudio/sci_2017/app/src/main/res/drawable-xxxhdpi/ic_add_white.png"
+    },
+    {
+        "merged": "/Users/Jisu/Documents/workspace/androidstudio/sci_2017/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_chevron_right_black.png",
+        "source": "/Users/Jisu/Documents/workspace/androidstudio/sci_2017/app/src/main/res/drawable-xxxhdpi/ic_chevron_right_black.png"
+    },
+    {
+        "merged": "/Users/Jisu/Documents/workspace/androidstudio/sci_2017/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_vertical_align_top_white.png",
+        "source": "/Users/Jisu/Documents/workspace/androidstudio/sci_2017/app/src/main/res/drawable-xxxhdpi/ic_vertical_align_top_white.png"
+    },
+    {
+        "merged": "/Users/Jisu/Documents/workspace/androidstudio/sci_2017/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_phone_white.png",
+        "source": "/Users/Jisu/Documents/workspace/androidstudio/sci_2017/app/src/main/res/drawable-xxxhdpi/ic_phone_white.png"
+    },
+    {
+        "merged": "/Users/Jisu/Documents/workspace/androidstudio/sci_2017/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_close_white.png",
+        "source": "/Users/Jisu/Documents/workspace/androidstudio/sci_2017/app/src/main/res/drawable-xxxhdpi/ic_close_white.png"
+    },
+    {
+        "merged": "/Users/Jisu/Documents/workspace/androidstudio/sci_2017/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_home_white.png",
+        "source": "/Users/Jisu/Documents/workspace/androidstudio/sci_2017/app/src/main/res/drawable-xxxhdpi/ic_home_white.png"
+    },
+    {
+        "merged": "/Users/Jisu/Documents/workspace/androidstudio/sci_2017/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_share_white.png",
+        "source": "/Users/Jisu/Documents/workspace/androidstudio/sci_2017/app/src/main/res/drawable-xxxhdpi/ic_share_white.png"
+    },
+    {
+        "merged": "/Users/Jisu/Documents/workspace/androidstudio/sci_2017/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_chevron_left_white.png",
+        "source": "/Users/Jisu/Documents/workspace/androidstudio/sci_2017/app/src/main/res/drawable-xxxhdpi/ic_chevron_left_white.png"
+    },
+    {
+        "merged": "/Users/Jisu/Documents/workspace/androidstudio/sci_2017/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_bookmark_border_white.png",
+        "source": "/Users/Jisu/Documents/workspace/androidstudio/sci_2017/app/src/main/res/drawable-xxxhdpi/ic_bookmark_border_white.png"
+    }
+]

@@ -1,0 +1,4 @@
+#Mon Oct 30 22:08:12 KST 2017
+base.0=/Users/Jisu/Documents/workspace/androidstudio/sci_2017/app/build/intermediates/transforms/dex/release/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/Jisu/Documents/workspace/androidstudio/sci_2017/app/build/intermediates/transforms/dex/release/folders/1000/1f/main/classes.dex
